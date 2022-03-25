@@ -1,0 +1,140 @@
+#title{
+  background-color:#ff4c68;
+}
+h1{
+font-family: Montserrat ;
+font-size: 3rem;
+line-height: 1.5;
+color: white;
+font-weight: bold;
+}
+.container-fluid{
+padding: 100px;
+
+}
+.navbar-brand{
+font-family:Ubuntu;
+font-size: 2.5rem;
+padding-right:100px;
+padding-bottom:100px;
+}
+.white{
+  width:300px;
+  transform: rotate(25deg);
+  padding-top: 10px;
+}
+#features{
+  text-align:center;
+padding:100px;
+}
+.headings{
+  font-family: Montserrat;
+  font-size: 3rem;
+
+}
+.phara{
+  color: gray;
+  font-size: 2rem;
+}
+.mix{
+  color:orange;
+  margin-bottom: 50px;
+}
+.mix:hover{
+  color:#EA5C2B;
+}
+.nav-item{
+  font-family:Ubuntu;
+  font-size:1rem;
+  line-height: 2rem;
+}
+#testimonials{
+  background-color: #FD5D5D;
+  text-align: center;
+  padding:50px;
+}
+.yo{
+text-align: center;
+padding: 100px;
+font-style: Montserrat;
+color: white;
+font-size: 3rem;
+font-weight: bold;
+}
+#press{
+background-color:#FD5D5D;
+  text-align: center;
+  padding-bottom: 70px;
+
+}
+.doggy{
+  border-radius: 50%;
+    width: 150px;
+}
+.da{
+  color:white;
+  font-weight: bold;
+}
+.testimonial-text{
+  text-align:center;
+  color:white;
+  font-style: Montserrat;
+  font-weight: bold;
+  font-size: 3rem;
+  padding-top:100px;
+
+}
+.testimonial-image{
+  border-radius: 50%;
+  width: 150px;
+  margin: 50px;
+}
+.tz{
+  color:white;
+  font-weight: bold;
+}
+#pricing{
+  padding-top: 50px;
+  text-align: center;
+  padding: 75px;
+}
+.he{
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 2.5rem;
+
+}
+#pk{
+  text-align: center;
+  padding-top: 50px;
+  font-family:Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+#cta{
+  text-align: center;
+  padding-top: 50px;
+  font-family:Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+#footer{
+  padding-top: 50px;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: bold;
+}
+#footer{
+  background-color:#00B4D8;
+}
+.adress{
+  font-family:Ubuntu;
+  font-size: 1.5rem;
+  font-family:bold;
+  color:black;
+  margin: 30px;
+}
+.adress:hover{
+  color:white;
+}
